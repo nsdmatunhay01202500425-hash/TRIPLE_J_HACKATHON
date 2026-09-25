@@ -1,4 +1,5 @@
 # AgriSense
+<<<<<<< HEAD
 
 AI agricultural market intelligence platform for the Philippines — frontend prototype.
 
@@ -81,3 +82,8 @@ Request shape sent to the backend:
 - All prices, market signals, and map data shown in the UI are **sample data** for
   demonstration purposes only, generated in `src/data/mockData.ts`.
 - Design tokens (colors, spacing, type scale) live in `tailwind.config.js`.
+=======
+Prototype for the hackathon elimination
+
+A smart agent that can help farmers calculate the prices and profitability of crops. It can also track prices of crops in a place.
+>>>>>>> 97e27fd320f40ceb559a08173fd7bd72f5a0ead3
