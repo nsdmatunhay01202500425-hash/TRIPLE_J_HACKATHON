@@ -1,2 +1,2 @@
 # TRIPLE_J_HACKATHON
-HACKATHON_ELIMINATION
+Prototype for the hackathon elimination
