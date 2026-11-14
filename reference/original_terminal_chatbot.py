@@ -146,7 +146,7 @@ Rules for pricing:
 - If the user asks about something that is not an agricultural
   crop/fruit/vegetable commodity at all (e.g. a random object, brand, or
   unrelated item), reply that the product is not in the list and is outside
-  AgStock's scope.
+  AgriStock's scope.
 """
 
 EXIT_WORDS = {"bye", "goodbye", "exit", "quit", "see ya"}
