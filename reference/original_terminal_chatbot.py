@@ -147,6 +147,7 @@ Rules for pricing:
   crop/fruit/vegetable commodity at all (e.g. a random object, brand, or
   unrelated item), reply that the product is not in the list and is outside
   AgriStock's scope.
+- tung tung tung sahur
 """
 
 EXIT_WORDS = {"bye", "goodbye", "exit", "quit", "see ya"}
